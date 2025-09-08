@@ -111,12 +111,13 @@ export default function Header() {
             <Typography
               variant="h6"
               sx={{
+                fontFamily: '"Story Script", sans-serif', 
                 fontWeight: "bold",
-                letterSpacing: 1,
+                letterSpacing: .1,
                 color: "black",
               }}
             >
-              TiffinKart
+              Soulful <br/> Bites
             </Typography>
             <LocationOnIcon
               sx={{ color: "black", cursor: "pointer" }}
