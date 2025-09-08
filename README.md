@@ -29,7 +29,7 @@ Features real-time payments, vendor management, and a simple one-vendor-per-orde
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React.js, Tailwind CSS  
+**Frontend:** React.js, MaterialUI  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB Atlas  
 **Payments:** Razorpay API  
